@@ -168,3 +168,13 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5A.png)
 
 (B)<br> 
+![](https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5B.png)
+
+(C) <br>
+![]()
+
+(D) <br>
+![]()
+
+(E) <br> 
+![]()
