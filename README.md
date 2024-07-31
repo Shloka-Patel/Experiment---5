@@ -177,4 +177,6 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5D.png)
 
 (E) <br> 
-![]()
+![](https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5E.png)
+
+Conclusion -> 
