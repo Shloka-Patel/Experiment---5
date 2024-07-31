@@ -171,7 +171,7 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5B.png)
 
 (C) <br>
-![]()
+![](https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5C.png)
 
 (D) <br>
 ![]()
