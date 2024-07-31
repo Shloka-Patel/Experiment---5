@@ -165,6 +165,6 @@ cout<< "Looking forward to the Weekend";
 Output: <br> 
 
 (A) <br> 
-()
+(https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5A.png)
 
 (B)<br> 
