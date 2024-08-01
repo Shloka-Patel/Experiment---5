@@ -5,8 +5,14 @@ Aim -> To study and implement C++ decision making statements. <br>
 
 Software -> Visual Studio Code <br> 
 
-Theory -> <br> 
-
+Theory -> Decision making statements in C++ are the conditional statements that are used to execute codes based on some given conditions. <br>  
+          The following are certain decsion making statements in C++ : <br> 
+          1. if statement <br> 
+          2.if-else statement <br> 
+          3. switch statement <br> 
+          4. nested if statements <br> 
+          5. nested switch statements <br> 
+          
 Code: <br> 
 
 (A) <br> 
