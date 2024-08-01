@@ -185,4 +185,4 @@ Output: <br>
 (E) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5E.png)
 
-Conclusion -> 
+Conclusion -> I learnt about the different decion maing statements of C++ and performed tasks based on those conditions. 
