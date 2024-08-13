@@ -1,11 +1,14 @@
 # Experiment---5
 
 
-Aim -> To study and implement C++ decision making statements. <br> 
+### Aim 
+To study and implement C++ decision making statements. <br> 
 
-Software -> Visual Studio Code <br> 
+### Software 
+Visual Studio Code <br> 
 
-Theory -> Decision making statements in C++ are the conditional statements that are used to execute codes based on some given conditions. <br>  
+### Theory 
+Decision making statements in C++ are the conditional statements that are used to execute codes based on some given conditions. <br>  
           The following are certain decsion making statements in C++ : <br> 
           1. if statement <br> 
           2.if-else statement <br> 
@@ -13,7 +16,7 @@ Theory -> Decision making statements in C++ are the conditional statements that 
           4. nested if statements <br> 
           5. nested switch statements <br> 
           
-Code: <br> 
+### Code: <br> 
 
 (A) <br> 
 ```
@@ -168,7 +171,7 @@ cout<< "Looking forward to the Weekend";
   }
 ```
 
-Output: <br> 
+### Output: <br> 
 
 (A) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5A.png)
@@ -185,4 +188,5 @@ Output: <br>
 (E) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---5/blob/main/Output_5E.png)
 
-Conclusion -> I learnt about the different decion maing statements of C++ and performed tasks based on those conditions. 
+### Conclusion 
+I learnt about the different decion maing statements of C++ and performed tasks based on those conditions. 
